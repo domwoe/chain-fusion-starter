@@ -73,4 +73,4 @@ fn get_evm_address() -> String {
 // }
 
 // Enables Candid export, read more [here](https://internetcomputer.org/docs/current/developer-docs/backend/rust/generating-candid/)
-ic_cdk::export_candid!();
+// ic_cdk::export_candid!();
